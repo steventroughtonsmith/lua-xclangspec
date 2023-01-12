@@ -1,6 +1,6 @@
 # lua-xclangspec
 
-This adds syntax highlighting for Lua source files to Xcode. Packaged for Xcode 9.2 from original repo at https://github.com/bastos/lua-xcode-coloring.
+This adds syntax highlighting for Lua source files to Xcode. Packaged for Xcode 14.2 from original repo at https://github.com/bastos/lua-xcode-coloring.
 
 ## Installation
 
